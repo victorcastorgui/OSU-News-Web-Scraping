@@ -1,18 +1,16 @@
-# project3-group3
-
-## OSU News Web Scraping
+# OSU News Web Scraping
 
 Gets news from OSU News website: https://news.osu.edu
 
 ### Setup
-In this project we use a gem called Mechanize
+In this project the gem Mechanize used.
 
 To install:
 ```
 ~$ bundle install
 ```
 
-To run must redirect to project3-group3 directory:
+To run must redirect to osuwebnewsscraping directory:
 ```
 ~$ bundle exec ruby main.rb
 ```
